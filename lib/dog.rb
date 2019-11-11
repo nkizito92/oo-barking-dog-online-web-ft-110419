@@ -6,6 +6,6 @@ class Dog
   
   def
    @dogs_name
- end 
+  end 
   
 end 
